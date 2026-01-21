@@ -3,7 +3,8 @@ streamlit==1.31.0
 # LangChain and LLM
 langchain==0.1.9
 langchain-groq==0.0.1
-langchain-community==0.0.20
+langchain-community>=0.0.21  # update this line
+# langchain-core==0.1.23  # remove this line, it’s conflicting
 
 # PDF Processing
 pypdf==4.0.1
