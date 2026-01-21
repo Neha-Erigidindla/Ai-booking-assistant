@@ -1,32 +1,10 @@
-# Core Streamlit
-streamlit==1.40.2
-
-# LangChain and LLM
-langchain==0.3.18
-langchain-groq==0.2.2
-langchain-community==0.3.18
-langchain-core==0.3.28
-langchain-text-splitters==0.3.5
-groq==0.13.0
-
-# PDF Processing
-pypdf==4.3.1
-
-# Vector Store
-chromadb==0.5.23
-
-# Embeddings (will auto-install compatible torch)
-sentence-transformers==3.3.1
-
-# Data Processing
-pandas==2.2.3
-
-# Additional Dependencies
-python-dotenv==1.0.1
-requests==2.32.3
-typing-extensions==4.12.2
-
-# For Chroma
-hnswlib==0.8.0
-pydantic==2.10.6
-pydantic-settings==2.7.1
+streamlit
+langchain
+langchain-groq
+langchain-community
+groq
+pypdf
+chromadb
+sentence-transformers
+pandas
+python-dotenv
