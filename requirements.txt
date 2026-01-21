@@ -1,25 +1,12 @@
 streamlit==1.31.0
-
-# LangChain and LLM
 langchain==0.1.9
 langchain-groq==0.0.1
-langchain-community>=0.0.21  # update this line
-# langchain-core==0.1.23  # remove this line, it’s conflicting
-
-# PDF Processing
+langchain-community>=0.0.21
 pypdf==4.0.1
-
-# Vector Database
 chromadb==0.4.22
-
-# Embeddings
 sentence-transformers==2.3.1
-
-# Data Processing
 pandas==2.2.0
 numpy==1.26.3
-
-# Additional Dependencies
 pydantic==2.5.3
 pydantic-core==2.14.6
-tiktoken==0.6.3
+tiktoken==0.5.2
