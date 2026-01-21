@@ -15,12 +15,11 @@ pypdf==4.3.1
 # Vector Store
 chromadb==0.5.23
 
-# Embeddings
+# Embeddings (will auto-install compatible torch)
 sentence-transformers==3.3.1
 
 # Data Processing
 pandas==2.2.3
-numpy==1.26.4
 
 # Additional Dependencies
 python-dotenv==1.0.1
@@ -31,14 +30,3 @@ typing-extensions==4.12.2
 hnswlib==0.8.0
 pydantic==2.10.6
 pydantic-settings==2.7.1
-
-# HuggingFace
-huggingface-hub==0.27.2
-tokenizers==0.21.0
-transformers==4.48.3
-
-# Torch (CPU only for embeddings)
---extra-index-url https://download.pytorch.org/whl/cpu
-torch==2.5.1+cpu
-torchvision==0.20.1+cpu
-torchaudio==2.5.1+cpu
