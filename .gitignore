@@ -1,0 +1,12 @@
+venv/
+env/
+__pycache__/
+*.pyc
+.env
+.env.*
+.streamlit/secrets.toml
+db/*.db
+db/chroma_db/
+models/
+.vscode/
+.idea/
