@@ -485,7 +485,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Neha-Erigidindla** - *Initial work* - [YourGitHub](https://github.com/Neha-Erigidindla)
+- **Neha-Erigidindla** - *Initial work* - [Github](https://github.com/Neha-Erigidindla)
 
 ---
 
@@ -503,7 +503,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For issues, questions, or suggestions:
 
-- 📧 Email: your.email@example.com
+- 📧 Email: nehaerigidindla@example.com
 - 🐛 Issues: [GitHub Issues](https://github.com/Neha-Erigidindla/Ai-booking-assistant/issues)
 - 💬 Discussions: [GitHub Discussions](https://github.com/Neha-Erigidindla/Ai-booking-assistant/discussions)
 
@@ -527,3 +527,4 @@ Made with ❤️ and ☕ by [Neha Erigidindla]
 [Report Bug](https://github.com/Neha-Erigidindla/Ai-booking-assistant/issues) · [Request Feature](https://github.com/Neha-Erigidindla/Ai-booking-assistant/issues)
 
 </div>
+
